@@ -4,7 +4,7 @@ The purpose of the project is to develop a comprehensive safety and tracking sol
 
 This solution aims to enhance women's safety by providing them with a means to signal for help, share their location, and receive timely assistance during emergencies.
 
-Tolls and Devices
+Tolls and Devices:
 
 1.Arduino Uno
 
