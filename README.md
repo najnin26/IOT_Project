@@ -6,14 +6,14 @@ This solution aims to enhance women's safety by providing them with a means to s
 
 Tolls and Devices
 
-Arduino Uno
+1.Arduino Uno
 
-A9G GSM+GPS Module
+2.A9G GSM+GPS Module
 
-NANO SIM CARD
+3.NANO SIM CARD
 
-GPS ANTENA
+4.GPS ANTENA
 
-GSM ANTENA
+5.GSM ANTENA
 
-Power Supply (5V)
+6.Power Supply (5V)
